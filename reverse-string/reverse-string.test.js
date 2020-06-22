@@ -1,4 +1,4 @@
-import reverseString from './reverseString';
+import reverseString from './reverse-string';
 
 describe('reverseString', () => {
   it('checks for empty string', () => {

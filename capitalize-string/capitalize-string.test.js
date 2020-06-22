@@ -1,4 +1,4 @@
-import capitalizeString from './capitalizeString';
+import capitalizeString from './capitalize-string';
 
 describe('capitalizeString', () => {
   it('checks for empty string', () => {
